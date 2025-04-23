@@ -58,6 +58,9 @@ MITMA is a Python-based tool designed for educational purposes to demonstrate ho
 ## **Disclaimer**
 This tool is intended for educational purposes only. Unauthorized use of this tool to intercept or manipulate network traffic is illegal and unethical. Use it only in a controlled environment with proper authorization.
 
+---
+
 ## **Author**
 Bharath Honakatti
+
 GitHub: bharathhonakatti26
